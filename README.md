@@ -1,5 +1,10 @@
+
+<h1 align="center">Hi 👋, I'm Bhavik Patel</h1>
+<h3 align="center">Backend Developer. Finance enthusiast.</h3>
+
 # 💫 About Me:
 😄 Pronouns: He/His/Him<br>🔭 I’m currently working [@Delphix](https://www.delphix.com/) as part of the Data Control Tower Team (DCT).<br>
+💬 Ask me about : Java and Personal Finance<br>
 📫 You can reach me at : bhavikp19@gmail.com
 
 [![](https://visitcount.itsvg.in/api?id=bhavikp19&icon=5&color=0)](https://visitcount.itsvg.in)
