@@ -1,4 +1,7 @@
-### Hi there 👋
+# 💫 About Me:
+😄 Pronouns: He/His/Him<br>🔭 I’m currently working [@Delphix](https://www.delphix.com/) as part of the Data Control Tower Team (DCT).<br>
+
+[![](https://visitcount.itsvg.in/api?id=bhavikp19&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!--
 **bhavikp19/bhavikp19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
